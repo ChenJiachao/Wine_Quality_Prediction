@@ -2,3 +2,4 @@ The dataset is taken from UCI machine learning repository.
 
 For more description for the dataset,see: https://archive.ics.uci.edu/ml/datasets/wine+quality
 
+This project used Logistic Regression with L2 regularization method to predict quality of White Wine and Red Wine
